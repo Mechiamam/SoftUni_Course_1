@@ -15,7 +15,8 @@ while not distinct_digits:
     year += 1
     year_list = [int(year) for i in str(year)]
 
-# if b[0] > b[1]:
-#     print "Not ascending"
+# You are saying goodbye to your best friend:
+# "See you next happy year". Happy Year is the year with only distinct digits,
+# for example, 2018. Write a program that receives an integer number and finds the next happy year.
 
 # TODO
