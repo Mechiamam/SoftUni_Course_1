@@ -1,5 +1,5 @@
-first_string = input()
-second_string = input()
+first_string = input("Please, enter your first string: )
+second_string = input("Please, enter your second string: ")
 last_printed_string = first_string
 for character_index in range(len(first_string)):
     left_part = second_string[:character_index + 1]
